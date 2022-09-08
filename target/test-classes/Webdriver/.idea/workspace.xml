@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64d6c4e9-31a4-42a5-9022-6c51f2ae5d75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../Average_Task/Average_Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CycleSwap/CycleSwap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CycleSwap/src/CycleSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Dutch/Dutch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../ElectronicWatch/ElectronicWatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../EvenNumbers/EvenNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../EvenNumbers/src/SumOfEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Figures00/Figures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../GetSumCheck/GetSumCheck.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../GetSumCheck/src/GetSumCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HelloPerson/HelloPerson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../HelloPerson/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Intersection/Intersection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Intersection/src/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../LocalMaxima/LocalMaxima.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../MatricesMultiplication/MatricesMultiplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../MatricesMultiplication/src/MultiplyMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Matrix/Matrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Matrix/src/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../MaxMethodArray/MaxMethodArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../New MaxValue/New MaxValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../RangedOps/RangedOps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Segment/Segment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Segment/src/Segment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../SpecialCollections/SpecialCollections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../SpecialCollections/src/DublicateStrCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../SpecialCollections/src/MedianQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../SpecialCollections/src/SortedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Spiral_example/Spiral.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../StringMethodes2/StringMethodes2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../StringMethodes2/src/ColorCodeValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../StringMethodes3/StringMethodes3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../StringMethodes3/src/EpamEmailValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../StringMethods/StringMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../StringMethods/src/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Triangle_MY/Triangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Verify-Deliver-To-functionality-MyCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Verify-Deliver-To-functionality-MyCode/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Verify-Deliver-To-functionality-MyCode/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Verify-Deliver-To-functionality-MyCode/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Verify-Deliver-To-functionality-MyCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Verify-Deliver-To-functionality-MyCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Verify-Deliver-To-functionality-MyCode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Verify-Deliver-To-functionality-MyCode/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Verify-Deliver-To-functionality-MyCode/src/test/java/org/example/DeliverToTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WebdriverTest/src/test/resources/Webdriver/chromedriver.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="2EOhJ1TAn5oKhLaYtLdLR4hNBrC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Yanina/Documents/IT/EPAM/PageObject_DeliverToFunctionality/src/test/resources/Webdriver"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d6c4e9-31a4-42a5-9022-6c51f2ae5d75" name="Changes" comment="" />
+      <created>1662472463028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662472463028</updated>
+    </task>
+    <servers />
+  </component>
+</project>
